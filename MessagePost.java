@@ -29,7 +29,7 @@ public class MessagePost extends Post
      * Metodo Que imprime un mensaje y el nombre del autor
      */
     public void printShortSummary(){
-        System.out.println("Esto es un post de texto creado por " + username + ".");
+        System.out.println("Esto es un post de texto creado por " + getUsername() + ".");
     }
     //     /**
     //      * Metodo que muestra toda la info del post

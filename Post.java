@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class Post
 {
-    public String username;
+    private String username;
     private long timestamp;
     private int likes;
     private ArrayList<String> comments;
@@ -80,5 +80,13 @@ public class Post
             info += min + " Minutes, ";
         info += sec + " Seconds\n";
         return info;
+    }
+    
+    /**
+     * returns the username for this post
+     */
+    public String getUsername()
+    {
+        return username;
     }
 }
