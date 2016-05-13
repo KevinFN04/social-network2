@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class Post
 {
-    private String username;
+    public String username;
     private long timestamp;
     private int likes;
     private ArrayList<String> comments;
