@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=username
+comment0.target=Comments(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comments\r\n
+comment1.params=comment
+comment1.target=void\ addComment(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getComments()
+numComments=3
