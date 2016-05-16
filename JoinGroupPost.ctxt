@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=username\ group
+comment0.target=JoinGroupPost(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getGroup()
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\r\n\ Metodo\ que\ devuelve\ el\ mensaje\ del\ post\r\n
+numComments=3
